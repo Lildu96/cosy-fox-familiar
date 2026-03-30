@@ -8,4 +8,4 @@ My first pixel art character — a soft magical fox with glowing features and sp
 - Blink animation
 
 ### Preview
-![Fox](assets/Glowing Fox.gif)
+![Fox](assets/glowing-fox.gif)
